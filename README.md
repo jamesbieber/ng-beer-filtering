@@ -2,6 +2,8 @@
 
 Project is viewable at https://beer-filtering.netlify.com
 
+This project was built from scratch using Angular. I created a pipe for filtering of the beers pulled from https://punkapi.com/
+
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
